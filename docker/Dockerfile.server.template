@@ -17,7 +17,6 @@ RUN apt-get update && \
         python-imaging \
         python-netifaces \
         python-simplejson \
-        libraspberrypi0 \
         ifupdown \
         sqlite3 && \
     apt-get clean
